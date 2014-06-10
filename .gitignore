@@ -1,4 +1,3 @@
-.htaccess
-wp-config.php
-wp-content/themes/Paradox/config.codekit
-wp-content/themes/Paradox/.sass-cache/**
+referrals/wp-config.php
+referrals/wp-content/themes/Paradox/config.codekit
+referrals/wp-content/themes/Paradox/.sass-cache/**
