@@ -1,0 +1,65 @@
+.feature-wide {
+	background: #2d718f url('../../images/light-rays.png') top center;
+	border-bottom: 6px solid #2d718f;
+}
+
+.video-feature-wide {
+    background: #2d718f url("../../images/footer-widgets-light-rays.png") repeat-x center top;
+    border-bottom: 6px solid #2d718f;
+}
+
+.nivo-controlNav a {
+	background: url("../../images/sliders/bullets-blue.png") no-repeat 0px -3px;
+}
+
+.footer-wide {
+	background: #2d718f url('../../images/footer-widgets-light-rays.png') top center repeat-x;
+	border-bottom: 6px solid #2d718f;
+}
+
+.masthead-wide {
+	background: #90b2c2 url('../../images/light-rays.png') top center;
+	border-bottom: 6px solid #2d718f;
+}
+
+#footer ul li {
+    border-bottom: 1px solid #5593bf;
+}
+
+#content .ptitle-wrap p.entry-meta {
+    background: #7dbeec url("../../images/meta-bg.png") 0 0 repeat-x;
+}
+
+#content .ptitle-wrap p.entry-meta .arccom {
+    background: #5593bf url("../../images/meta-bg-2.png") 0 0 repeat-x;
+}
+ 
+.pagination .current {
+	color: #ffffff;
+	background: #5593bf;
+	border: 1px solid #5593bf;
+}
+
+#content .ptitle-wrap p.entry-meta a {
+	color: #fcffd9;
+}
+
+#content .ptitle-wrap p.entry-meta a:hover {
+	color: #cccccc;
+}
+
+#digislider2-feature-wrap a.pager-link {
+    background: url("../../images/sliders/bullets-blue.png") no-repeat 0 -3px;
+}
+
+#digislider2-feature-wrap a.pager-active {
+    background: url("../../images/sliders/bullets-blue.png") no-repeat 0 -23px;
+}
+
+.work-nav-wrap {
+	background: url("../../images/meta-bg.png") repeat-x 0 0 #7dbeec;
+}
+
+.show  {
+    background: url("../../images/meta-bg-2.png") repeat-x 0 0 #5593bf;
+}

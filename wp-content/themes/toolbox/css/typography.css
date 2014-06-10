@@ -1,0 +1,171 @@
+
+/* TYPOGRAPHY */
+/* ----------------------------------------- */
+
+body {font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 14pt; color: #505050;}
+
+p { color: #505050; font-size: 12px; line-height: normal; padding: 0 0 30px 0; }
+
+pre { background: url("../images/pre-bg.png") ; padding: 14px; margin: 0 0 15px 0; line-height: 16px; overflow: auto; white-space: pre-wrap; border: 1px solid #d4d2d2; display: block; }
+
+code { background: url("../images/pre-bg.png") ; padding: 14px; margin: 0 0 15px 0; line-height: 16px; overflow: auto; white-space: pre-wrap; border: 1px solid #d4d2d2; display: block; }
+
+a { color: #015176; text-decoration: none; }
+a:hover { color: #000000; text-decoration: none; }
+
+.tshadow { text-shadow: 0 1px 1px #303030; }
+
+.edit a {
+	color: #F00;
+}
+.edit a:hover {
+	color: #000000;
+}
+
+.red { color:#F30;}
+
+#content blockquote {
+	margin: 20px 0 15px 0;
+}
+
+#content blockquote p {
+	font-family: Georgia,"Times New Roman",Times,serif;
+	font-style: italic;
+	font-size: 18px;
+	line-height: 20pt;
+	color: #393939;	
+	padding: 30px;
+	background: url('../images/quote.png') 10px 20px no-repeat;	
+}
+
+#content blockquote span {
+	font-size: 14px;
+	font-family: helvetica,arial,clean,sans-serif;
+	color: #999;
+	font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #ffffff;
+	letter-spacing: -1px;
+	color: #3f3f38;
+}
+
+#content h2 a {
+	color: #3f3f38;
+}
+
+#content h2 a:hover {
+	color: #4a4a43;
+}
+
+#content h1 {
+	font-size: 30px;
+	line-height: 28px;
+	margin-bottom: 20px;
+}
+
+#content h2 {
+	font-size: 22px;
+	line-height: 26pt;
+}
+
+#content h3 {
+	line-height: normal;
+}
+
+#content h4 {
+	font-size: 22px;
+	line-height: 22pt;
+	margin-bottom: 15px;
+}
+
+#content h5 {
+	font-size: 18px;
+	line-height: 18pt;
+	margin-bottom: 15px;
+}
+
+#content h5 span {
+	background: url("../images/more-bg.png") repeat-x left bottom;
+	font-size: 12px;
+	font-style: italic;
+	line-height: 12pt;
+	margin: 8px 0 15px 0;
+	padding-bottom: 18px;
+	display: block;
+	color: #666;
+}
+
+.tenfont {font-size: 10px; }
+.twelvefont {font-size: 12px; }
+.alert { background:red; color:white } /* 'alert' has a basic style, since it's useful to have it standing out for testing purposes.
+
+
+
+/* Font stack options
+
+	The following represents a list of font stacks, as recommended by Nathan Ford in
+	http://unitinteractive.com/blog/2008/06/26/better-css-font-stacks/
+
+	I've added inverted commas around the relevant family names to ensure compatibility.
+	p = balanced for paragraphs or body copy
+	t = balanced for headlines or titles
+
+	- - - -
+
+Arial, "Helvetica Neue", Helvetica, sans-serif - p, t
+
+Baskerville, "Times New Roman", Times, serif - p
+Baskerville, "Times, Times New Roman", serif - t
+
+Cambria, Georgia, Times, "Times New Roman", serif - p, t
+"Century Gothic", "Apple Gothic", sans-serif - p, t
+
+Consolas, "Lucida Console", Monaco, monospace - p, t
+
+"Copperplate Light", "Copperplate Gothic Light", serif - p, t
+
+"Courier New", Courier, monospace - p, t
+
+"Franklin Gothic Medium", "Arial Narrow Bold", Arial, sans-serif - p, t
+
+Futura, "Century Gothic", "Apple Gothic", sans-serif - p, t
+
+Garamond, "Hoefler Text", "Times New Roman", Times, serif - p
+Garamond, "Hoefler Text", Palatino, "Palatino Linotype", serif - t
+
+Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif - p
+Geneva, Verdana, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif - t
+
+Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman", serif - p
+Georgia, Times, "Times New Roman", serif - t
+
+GillSans, Calibri, Trebuchet, sans-serif - p
+GillSans, Trebuchet, Calibri, sans-serif - t
+
+"Helvetica Neue", Arial, Helvetica, sans-serif - p
+Helvetica, "Helvetica Neue", Arial, sans-serif - t
+
+Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif - p, t
+
+"Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif - p, t
+
+Palatino, "Palatino Linotype", Georgia, Times, "Times New Roman", serif - p
+Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif - t
+
+Tahoma, Geneva, Verdana - p
+Tahoma, Verdana, Geneva - t
+
+Times, "Times New Roman", Georgia, serif - p, t
+
+Trebuchet, "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif - p
+Trebuchet, Tahoma, Arial, sans-serif - t
+
+Verdana, Geneva, Tahoma, sans-serif - p
+Verdana, Tahoma, Geneva, sans-serif - t
+
+*/

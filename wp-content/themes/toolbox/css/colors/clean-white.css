@@ -1,0 +1,114 @@
+.tshadow { text-shadow: none; }
+#masthead p {
+    color: #131313;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.feature-wide {
+	background: #e8e8e8 url('../../images/dots-bg.png') top center;
+	border-bottom: 6px solid #d2d2d2;
+}
+
+.video-feature-wide {
+	background: #e8e8e8 url('../../images/dots-bg.png') top center;
+	border-bottom: 6px solid #d2d2d2;
+}
+
+#digislider2-feature-wrap {
+    height: 363px;
+	padding: 40px 0;
+}
+
+#digislider2-feature-wrap .bx-pager {
+    bottom: -24px;
+}
+
+#digislider2-feature-wrap .bx-prev, #digislider2-feature-wrap .bx-next {
+    bottom: -28px;
+}
+
+.nivo-controlNav a {
+	background: url("../../images/sliders/bullets-gray.png") no-repeat 0px -3px;
+}
+
+#content .ptitle-wrap p.entry-meta {
+    background: #7a7a7a url("../../images/meta-bg.png") 0 0 repeat-x;
+}
+
+#content .ptitle-wrap p.entry-meta .arccom {
+    background: #4d4d4d url("../../images/meta-bg-2.png") 0 0 repeat-x;
+}
+
+.footer-wide {
+	background: #e8e8e8 url('../../images/dots-bg.png') top center;
+	border-bottom: 6px solid #d2d2d2;
+}
+
+.masthead-wide {
+	background: #e8e8e8 url('../../images/dots-bg.png') top center;
+	border-bottom: 6px solid #d2d2d2;
+}
+
+#footer ul li {
+    border-bottom: 1px solid #d2d2d2;
+}
+
+#footer h3.widget-title {
+    color: #000000;
+    text-shadow: none;
+}
+
+#footer ul li a {
+    color: #015176;
+}
+
+#footer ul li a:hover {
+    color: #000000;
+}
+
+#footer #widget-latest-posts .entry-meta {
+    color: #505050;
+}
+
+#footer #widget-latest-posts .entry-meta span {
+    color: #000000;
+}
+
+.pagination .current {
+	color: #ffffff;
+	background: #4d4d4d;
+	border: 1px solid #4d4d4d;
+}
+
+#digislider2-feature-wrap a.pager-link {
+    background: url("../../images/sliders/bullets-gray.png") no-repeat 0 -3px;
+}
+
+#digislider2-feature-wrap a.pager-active {
+    background: url("../../images/sliders/bullets-gray.png") no-repeat 0 -23px;
+}
+
+.video-details h3 {
+    color: #131313;
+}
+
+.video-details p {
+    color: #505050;
+}
+
+#masthead h1 span {
+    color: #131313;
+    text-shadow: none;
+}
+
+.work-nav-wrap {
+	background: url("../../images/meta-bg.png") repeat-x 0 0 #7a7a7a;
+}
+
+.show  {
+    background: url("../../images/meta-bg-2.png") repeat-x 0 0 #4d4d4d;
+}
+
+#footer .uaform label, label.desc {
+    color: #131313;
+}

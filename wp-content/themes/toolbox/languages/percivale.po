@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: percivale/single.php:17
+#: percivale/loop.php:33
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: percivale/single.php:17
+#: percivale/loop.php:33
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: percivale/single.php:64
+#: percivale/onecolumn-page.php:56
+#: percivale/attachment.php:105
+#: percivale/page.php:50
+msgid "<span class=\"pages\">Pages:</span>"
+msgstr ""
+
+#. Text in echo
+#: percivale/single.php:78
+msgid "About the Author:"
+msgstr ""
+
+#. Text in function
+#: percivale/author.php:28
+msgid "About: %s"
+msgstr ""
+
+#. Text in echo
+#: percivale/footer.php:61
+msgid "All rights reserved."
+msgstr ""
+
+#. Text in echo
+#: percivale/loop.php:22
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: percivale/404.php:31
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#. Text in echo
+#: percivale/archive.php:23
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: percivale/loop.php:33
+msgid "By"
+msgstr ""
+
+#. Text in echo
+#: percivale/theme-contact.php:149
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: percivale/theme-contact.php:172
+msgid "Contact Form Submission from "
+msgstr ""
+
+#. Text in function
+#: percivale/loop.php:46
+msgid "Continue reading"
+msgstr ""
+
+#. Text in function
+#: percivale/attachment.php:103
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#. Text in echo
+#: percivale/footer.php:61
+msgid "Copyright &copy;"
+msgstr ""
+
+#. Text in function
+#: percivale/archive.php:17
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: percivale/single.php:17
+#: percivale/onecolumn-page.php:57
+#: percivale/attachment.php:43
+#: percivale/page.php:51
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:84
+#: percivale/theme-contact.php:142
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: percivale/attachment.php:21
+msgid "Full size is %s pixels"
+msgstr ""
+
+#. Text in echo
+#: percivale/theme-contact.php:156
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#. Text in echo
+#: percivale/loop.php:33
+msgid "In"
+msgstr ""
+
+#. Text in echo
+#: percivale/single.php:17
+msgid "In:"
+msgstr ""
+
+#. Text in function
+#: percivale/comments.php:65
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: percivale/single.php:17
+#: percivale/loop.php:33
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in function
+#: percivale/attachment.php:21
+msgid "Link to full-size image"
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:76
+msgid "Log out &raquo;"
+msgstr ""
+
+#. Text in echo
+#: percivale/inc/login.php:1
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: percivale/archive.php:19
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:81
+#: percivale/theme-contact.php:135
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: percivale/inc/related.php:45
+msgid "No related posts found!"
+msgstr ""
+
+#. Text in echo
+#: percivale/404.php:12
+#: percivale/loop.php:21
+msgid "Not Found"
+msgstr ""
+
+#. Text in echo
+#: percivale/search.php:42
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:98
+msgid "Notify me of followup comments via e-mail"
+msgstr ""
+
+#. Text in function
+#: percivale/loop.php:32
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: percivale/modern-portfolio.php:52
+#: percivale/p-3-column-no-description.php:52
+#: percivale/p-4-column.php:56
+#: percivale/p-2-column.php:52
+#: percivale/p-2-column-no-description.php:52
+#: percivale/p-4-column-no-description.php:56
+#: percivale/p-3-column.php:52
+#: percivale/p-1-column.php:52
+msgid "Please use the custom field of \"pcat\" and type in the category slug for the items you would like this page to display. See an example in the image below."
+msgstr ""
+
+#. Text in function
+#: percivale/attachment.php:21
+msgid "Published %2$s"
+msgstr ""
+
+#. Text in echo
+#: percivale/inc/related.php:2
+msgid "Related Articles"
+msgstr ""
+
+#. Text in function
+#: percivale/attachment.php:65
+msgid "Return to %s"
+msgstr ""
+
+#. Text in function
+#: percivale/search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: percivale/theme-contact.php:157
+msgid "Send Email"
+msgstr ""
+
+#. Text in echo
+#: percivale/theme-contact.php:155
+msgid "Send a copy of this email to yourself"
+msgstr ""
+
+#. Text in echo
+#: percivale/inc/sharebox.php:3
+msgid "Share This"
+msgstr ""
+
+#. Text in echo
+#: percivale/modern-portfolio.php:43
+#: percivale/p-3-column-no-description.php:43
+#: percivale/p-4-column.php:47
+#: percivale/p-2-column.php:43
+#: percivale/p-2-column-no-description.php:43
+#: percivale/p-4-column-no-description.php:47
+#: percivale/p-3-column.php:43
+#: percivale/p-1-column.php:43
+msgid "Show"
+msgstr ""
+
+#. Text in echo
+#: percivale/search.php:43
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: percivale/tag.php:17
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: percivale/theme-contact.php:129
+msgid "There was an error submitting the form"
+msgstr ""
+
+#. Text in echo
+#: percivale/modern-portfolio.php:54
+#: percivale/p-3-column-no-description.php:54
+#: percivale/p-4-column.php:58
+#: percivale/p-2-column.php:54
+#: percivale/p-2-column-no-description.php:54
+#: percivale/p-4-column-no-description.php:58
+#: percivale/p-3-column.php:54
+#: percivale/p-1-column.php:54
+msgid "This only works for one category."
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:16
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: percivale/p-4-column.php:97
+#: percivale/p-2-column.php:93
+#: percivale/p-3-column.php:93
+#: percivale/p-1-column.php:94
+msgid "View project"
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:87
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: percivale/archive.php:21
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: percivale/theme-contact.php:172
+msgid "You entered an invalid email address"
+msgstr ""
+
+#. Text in echo
+#: percivale/theme-contact.php:172
+msgid "You forgot to enter your comments"
+msgstr ""
+
+#. Text in echo
+#: percivale/theme-contact.php:172
+msgid "You forgot to enter your email address"
+msgstr ""
+
+#. Text in echo
+#: percivale/theme-contact.php:172
+msgid "You forgot to enter your name"
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:69
+msgid "You must be"
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:69
+msgid "logged in"
+msgstr ""
+
+#. Text in echo
+#: percivale/loop.php:33
+msgid "on"
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:69
+msgid "to post a comment"
+msgstr ""

@@ -1,0 +1,107 @@
+/*------------------------------------------------------------------------------
+
+
+Hello, this is the main UI Labs CSS File
+Crazy experiments and stuff happen in here
+
+
+TABLE OF CONTENTS:
+------------------
+ 1.0 - Post Statuses
+
+
+------------------------------------------------------------------------------*/
+
+
+
+/*------------------------------------------------------------------------------
+  1.0 - Post Statuses
+------------------------------------------------------------------------------*/
+
+/* Pending */
+.post-state .pending {
+	padding:3px 5px;
+	color:#000;
+	font-weight:bold;
+	background:#dba811;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+}
+
+/* Draft */
+.post-state .draft {
+	padding:3px 5px;
+	color:#fff;
+	font-weight:normal;
+	background:#870804;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+}
+
+/* Sticky */
+.post-state .sticky {
+	padding:3px 5px;
+	color:#fff;
+	font-weight:normal;
+	background:#277fac;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+}
+
+/* Private */
+.post-state .private {
+	padding:3px 5px;
+	color:#000;
+	font-weight:bold;
+	background:#ddd;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+}
+
+/* Password Protected */
+.post-state .password-protected {
+	padding:3px 5px;
+	color:#fff;
+	font-weight:normal;
+	background:#222;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+}
+
+/* Make the comma between multiple post 
+statuses invisible - hackfest - #WINNING */
+.post-state {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size:10px;
+	float: right;
+	color:#fff;
+	letter-spacing: .05em;
+	margin-left: 3px;
+}
+
+/* Make the hyphen before all post statuses 
+invisible - #TIGERBLOOD */
+.status-pending strong,
+.status-publish strong,
+.status-private strong,
+.status-draft strong {
+	color:#fff;
+}
+
+/* Remove excess space now that the hyphen 
+is invisible - #SOMETHING */
+.status-pending .row-title,
+.status-publish .row-title,
+.status-private .row-title,
+.status-draft .row-title {
+	margin-right:-10px;
+	position:relative;
+	z-index:10;
+}
+

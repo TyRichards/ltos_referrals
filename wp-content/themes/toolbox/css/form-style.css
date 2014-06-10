@@ -1,0 +1,1370 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* ---------------------------- PROFILE FORM ---------------------------- */
+
+/* ---- NOTIFICATIONS AT TOP ---- */
+
+body .gform_wrapper .wppb_holder p.changes-saved {
+	color: #BBB245;
+	text-align: center;
+	min-height: 18px;
+	height: auto;
+	margin: 40px 0 -10px 0;
+	line-height: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	border: 1px solid #E6DB55;
+	background-color: lightYellow;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	padding: 15px;
+}
+
+/* ---- FORM TITLES ---- */
+
+body #gform_wrapper_profile .gform_heading h3.gform_title {
+	padding: 0px;
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #ffffff;
+	letter-spacing: -1px;
+	color: #3f3f38;
+}
+
+/* ---- SECTION HEADER ---- */
+
+/* ---- COMPLEX NAME FIELD ---- */
+
+body .gform_wrapper .wppb_holder .gfield {
+color: #BABABA;
+text-shadow: none;
+font-weight: bold;
+letter-spacing: normal;
+border-bottom: 6px solid #CCC;
+padding: 0 0 0 0;
+margin: 30px 0 30px 0;
+clear: both;
+}
+
+body .gform_wrapper .wppb_holder .gfield h2.gsection_title {
+	color: #BABABA;
+	text-shadow: none;
+	font-weight: bold;
+}
+
+body .gform_wrapper .wppb_holder p.disabled {
+	padding: 9px 0 0 0;
+	margin: 0 0 0 0;
+	height: 37px;
+	width: 100%;
+	background-color: #D1D1D1;
+	border-top-color: #B9B9B9;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #000000;
+	text-indent: 10px;
+} 
+
+body .gform_wrapper .wppb_holder input[disabled]{
+color:red;
+}
+
+input::-webkit-input-placeholder, isindex::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+color: orange;
+}
+
+
+/* ---- TEXT FIELD ---- */
+
+body .gform_wrapper .wppb_holder input[type="text"] {
+width: 426px;
+background-color: white;
+border-top-color: #DDD;
+border-top-width: 1px;
+border-top-style: solid;
+border-right-style: none;
+border-bottom-style: none;
+border-left-style: none;
+border-radius: 6px;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: #65645A;
+padding: 12px 12px;
+}
+
+body .gform_wrapper .wppb_holder input[type="text"]:focus {
+	padding: 11px 10px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B2B2B2;
+	border-right-color: #B2B2B2;
+	border-bottom-color: #B2B2B2;
+	border-left-color: #B2B2B2;
+}
+
+/* ---- FIELD LABLES ---- */
+
+body .gform_wrapper .wppb_holder p {
+margin: 20px 0 4px 0;
+font-size: 13px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+line-height: 1.3em;
+clear: both;
+padding: 0 0 0 0;
+}
+
+body .gform_wrapper .wppb_holder p.sublabel {
+	padding: 5px 0 0 0;
+	font-style: normal;
+	font-weight: normal;
+	margin: 0 0 0 0;
+	font-size: 11px;
+}
+
+/* ---- SELECT FIELD ---- */
+
+body .gform_wrapper .wppb_holder select {
+height: 48px;
+width: 100%;
+max-height: 50px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: #65645A;
+background-color: #FFFFFC;
+background-image: none;
+}
+
+/* ---- PASSWORD FIELD ---- */
+
+body .gform_wrapper .wppb_holder input[type="password"] {
+width: 426px;
+background-color: white;
+border-top-color: #DDD;
+border-top-width: 1px;
+border-top-style: solid;
+border-right-style: none;
+border-bottom-style: none;
+border-left-style: none;
+border-radius: 6px;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: #65645A;
+padding: 12px 12px;
+}
+
+body .gform_wrapper .wppb_holder input[type="password"]:focus {
+	padding: 11px 10px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B2B2B2;
+	border-right-color: #B2B2B2;
+	border-bottom-color: #B2B2B2;
+	border-left-color: #B2B2B2;
+}
+
+body .gform_wrapper .wppb_holder p.form-password {
+	width: 100%;
+	padding: none;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 20px 0 4px 0;
+	font-weight: bold;
+	line-height: 1.3em;
+	clear: none;
+}
+
+
+/* ---- UPDATE BUTTON ---- */
+
+body .gform_wrapper .wppb_holder .form-submit input[type="submit"] {
+height: 47px;
+width: 225px;
+background-color: #3F3F38;
+background-image: url(../images/submit_transparent.png);
+background-repeat: repeat-x;
+border-top-color: #292925;
+border-bottom-color: #292925;
+border-top-width: 1px;
+border-bottom-width: 1px;
+border-top-style: solid;
+border-right-style: none;
+border-bottom-style: solid;
+border-left-style: none;
+border-radius: 6px;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 15px;
+font-weight: bold;
+text-shadow: 1px 1px 1px #0B171E;
+color: white;
+cursor: pointer;
+margin: 18px 0 0 0;
+}
+
+/* ---- SUBMIT BUTTON ROLLOVER ---- */
+
+body .gform_wrapper .wppb_holder .form-submit input[type="submit"]:hover {
+	background-color: #4a4a43;
+}
+
+
+/* ---------------------------- SIGN UP FORM ---------------------------- */
+
+/* ---- COMPLEX NAME FIELD ---- */
+
+body .gform_wrapper .gform_body .gform_fields .gsection {
+color: #BABABA;
+text-shadow: none;
+font-weight: bold;
+letter-spacing: normal;
+border-bottom: 6px solid #CCC;
+padding: 0 0 0 0;
+margin: 30px 0 30px 0;
+clear: both;
+}
+
+body .gform_wrapper .gform_body .gform_fields .gsection h2 {
+	color: #BABABA;
+	text-shadow: none;
+	font-weight: bold;
+}
+
+body .gform_wrapper .gform_body .gfield .gfield_description {
+padding: 5px 0 0 0;
+font-style: normal;
+}
+
+
+/* ---- COMPLEX NAME FIELD ---- */
+
+body #gform_wrapper_2 .gform_body .gfield #input_2_1 {
+	margin-top: -18px;
+}
+
+
+	/* PREFIX CONTAINER */
+body .gform_wrapper .gform_body .gfield .ginput_complex .name_prefix {
+width: 54px;
+margin-right: 12px;
+}
+
+	/* FIRST NAME - LAST NAME CONTAINER */
+body .gform_wrapper .gform_body .gfield .ginput_complex .name_first, 
+body .gform_wrapper .gform_body .gfield .ginput_complex .name_last {
+width: 153px;
+margin-right: 12px;
+}
+
+
+	/* SUFFIX CONTAINER */
+body .gform_wrapper .gform_body .gfield .ginput_complex .name_suffix {
+width: 54px;
+}
+
+/* PREFIX CONTAINER - ERROR MESSAGE */
+body .gform_wrapper .gform_body .gfield_error .ginput_complex .name_prefix {
+width: 52px;
+}
+
+/* FIRST NAME - LAST NAME CONTAINER - ERROR*/
+body .gform_wrapper .gform_body .gfield_error .ginput_complex .name_first, 
+body .gform_wrapper .gform_body .gfield_error .ginput_complex .name_last {
+width: 145px;
+margin-right: 12px;
+}
+
+	/* SUFFIX CONTAINER - ERROR MESSAGE */
+body .gform_wrapper .gform_body .gfield_error .ginput_complex .name_suffix {
+width: 52px;
+}
+
+
+
+	/* PREFIX INPUT BOX */
+body #gform_wrapper_2 .gform_body .gform_fields .gfield .name_prefix input[type=text] {
+	width: 30px;
+}
+
+
+	/* SUFFIX INPUT BOX */
+body #gform_wrapper_2 .gform_body .gform_fields .gfield .name_suffix input[type=text] {
+	width: 30px;
+}
+
+
+	/* FIRST NAME INPUT BOX */
+body #gform_wrapper_2 .gform_body .gform_fields .gfield .name_first input[type=text] {
+	width: 129px;
+}
+
+/* LAST NAME INPUT BOX */
+body #gform_wrapper_2 .gform_body .gform_fields .gfield .name_last input[type=text] {
+	width: 129px;
+}
+
+/* PREFIX INPUT BOX -ERROR */
+body #gform_wrapper_2 .gform_body .gform_fields .gfield_error .name_prefix input[type=text] {
+	width: 28px;
+}
+
+
+	/* SUFFIX INPUT BOX - ERROR  */
+body #gform_wrapper_2 .gform_body .gform_fields .gfield_error .name_suffix input[type=text] {
+	width: 28px;
+}
+
+
+	/* FIRST NAME INPUT BOX - ERROR */
+body #gform_wrapper_2 .gform_body .gform_fields .gfield_error .name_first input[type=text] {
+	width: 121px;
+}
+
+/* LAST NAME INPUT BOX - ERROR*/
+body #gform_wrapper_2 .gform_body .gform_fields .gfield_error .name_last input[type=text] {
+	width: 121px;
+}
+
+
+
+/* ---------------------------- WIDGET SIDEBAR FORM ELEMENTS ---------------------------- */
+
+/* ---- SUBMIT BUTTON ---- */
+
+body #sidebar .sidebar-button { 
+	margin: 20px 0;
+	padding: 14px 0 0 0;
+	width: 60%;
+	height: 31px;
+	background-color: #3f3f38;
+	background-image: url(../images/submit_transparent.png);
+	background-repeat: repeat-x;
+	border-top-color: #292925;
+	border-bottom-color: #292925;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #0b171e;
+	color: #ffffff;
+	cursor: pointer;
+	text-align: center; 
+}
+
+/* ---- SUBMIT BUTTON ROLLOVER ---- */
+
+body #sidebar .sidebar-button:hover {
+	background-color: #4a4a43;
+}
+
+
+
+/* ---------------------------- REFERRAL FORM ---------------------------- */
+
+/* ---- FORM WRAPPER ---- */
+
+body .gform_wrapper { 
+	width:450px;
+	max width: 450px;
+    overflow:hidden;
+	background-color: #f0f0f0;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	padding: 40px 40px 40px 40px;
+	margin: 0 0 0 0;
+}
+
+body #gform_wrapper_1 {
+	width:450px;
+	max width: 450px;
+    overflow:hidden;
+	background-color: #f0f0f0;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	padding: 40px 40px 40px 40px;
+	margin: 0 0 0 0;
+}
+
+/* ---- PARAGRAPH SPACE ---- */
+
+body .gform_wrapper .gform_heading p { 
+	line-height: normal;
+	padding: 0px;
+	margin: 10px 0 0 0;
+}
+
+
+body #gform_wrapper_1 .gform_heading p{
+	line-height: normal;
+	padding: 0px;
+	margin: 10px 0 0 0;
+}
+
+body #gform_wrapper_1 p{
+	line-height: 0px;
+	margin-top: 0px;
+	padding: 0px;
+}
+
+body .gform_wrapper p { 
+	line-height: normal;
+}
+
+
+/* ---- FORM HEADER ---- */
+
+body .gform_wrapper .gform_heading {
+	padding: 0px;
+	width: 100%;
+	margin: 0 0 10px 0;
+}
+
+body #gform_wrapper_1 .gform_heading {
+	padding: 0px;
+	width: 100%;
+	margin: 0 0 20px 0;
+}
+
+/* ---- FORM TITLE ---- */
+
+body .gform_wrapper .gform_heading h3.gform_title {
+	padding: none;
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #ffffff;
+	letter-spacing: -1px;
+	color: #3f3f38;
+}
+
+body #gform_wrapper_1 .gform_heading h3.gform_title {
+	padding: none;
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #ffffff;
+	letter-spacing: -1px;
+	color: #3f3f38;
+}
+
+/* ---- FORM TITLE ---- */
+
+body .gform_wrapper .gform_heading .gform_description {
+	margin-top: 30px;
+}
+
+
+/* ---- FORM BODY ---- */
+
+body .gform_wrapper .gform_body {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+}
+
+body #gform_wrapper_1 .gform_body {
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+}
+
+/* ---- STANDARD FIELD LABEL ---- */
+
+body .gform_wrapper .gform_body .gform_fields .gfield .gfield_label {
+	margin-top: 20px;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+	
+/* ---- MINOR checkbox FIELD LABEL ---- */
+
+body #gform_wrapper_1 .gform_body .gform_fields #field_1_20 .gfield_label {
+	margin-top: 20px;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	display: none;
+	}
+
+/* ---- GUARDIAN TEXT FIELD ---- */
+
+body #gform_wrapper_1 .gform_body .gform_fields #field_1_21 input[type=text] {
+	width: 195px;
+	background-color: #ffffff;
+	border-top-color: #dddddd;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	padding: 12px 12px;
+}
+
+body #gform_wrapper_1 .gform_body .gform_fields #field_1_21 input[type=text]:focus {
+	padding: 11px 10px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B2B2B2;
+	border-right-color: #B2B2B2;
+	border-bottom-color: #B2B2B2;
+	border-left-color: #B2B2B2;
+}
+
+/* ---- TEXT FIELD ---- */
+
+body .gform_wrapper .gform_body .gform_fields .gfield input[type=text] {
+	width: 426px;
+	background-color: #ffffff;
+	border-top-color: #dddddd;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	padding: 12px 12px;
+}
+
+body .gform_wrapper .gform_body .gform_fields .gfield input[type=text]:focus {
+	padding: 11px 10px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B2B2B2;
+	border-right-color: #B2B2B2;
+	border-bottom-color: #B2B2B2;
+	border-left-color: #B2B2B2;
+}
+
+
+body .gform_wrapper .gform_body .gform_fields .gfield_error input[type=text] {
+	width: 95%;
+	background-color: #ffffff;
+	border-top-color: #dddddd;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	padding: 12px 12px;
+}
+	
+/* Specific form ID & specific field - element ID */
+
+body #gform_wrapper_1 .gform_body .gform_fields #field_1_2 input[type=text] {
+	width: 195px;
+	background-color: #ffffff;
+	border-top-color: #dddddd;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	padding: 12px 12px;
+}
+
+body #gform_wrapper_1 .gform_body .gform_fields #field_1_2 input[type=text]:focus {
+	padding: 11px 10px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B2B2B2;
+	border-right-color: #B2B2B2;
+	border-bottom-color: #B2B2B2;
+	border-left-color: #B2B2B2;
+}
+
+
+
+/* ---- PASSWORD FIELD ---- */
+
+body .gform_wrapper .gform_body .gform_fields .gfield input[type=password] {
+	width: 195px;
+	background-color: #ffffff;
+	border-top-color: #dddddd;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	padding: 12px 12px;
+}
+
+body .gform_wrapper .gform_body .gform_fields .gfield input[type=password]:focus {
+	padding: 11px 10px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B2B2B2;
+	border-right-color: #B2B2B2;
+	border-bottom-color: #B2B2B2;
+	border-left-color: #B2B2B2;
+}
+
+	/* Specific form ID & specific field - element ID */
+
+body .gform_validation_error .gform_body .gform_fields .gfield_error .ginput_complex input[type=password] {
+	width: 185px;
+	background-color: #ffffff;
+	border-top-color: #dddddd;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	padding: 12px 12px;
+}
+
+/* ---- TEXT AREA ---- */
+
+body .gform_wrapper .gform_body .gform_fields .gfield textarea {
+	padding: 10px;
+	line-height: 25px;
+	width: 430px;
+	max-height:300px; 
+	min-height:46px;
+	background-color: #ffffff;
+	background-image: none;
+	border-top-color: #dddddd;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	resize:vertical;
+	overflow: auto;
+}
+
+body #gform_wrapper_1 .gform_body .gform_fields .gfield textarea {
+	padding: 10px;
+	line-height: 25px;
+	width: 430px;
+	max-height:300px; 
+	min-height:46px;
+	background-color: #ffffff;
+	background-image: none;
+	border-top-color: #dddddd;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	resize:vertical;
+	overflow: auto;
+}
+
+body #gform_wrapper_1 .gform_body .gform_fields .gfield textarea:focus {
+	padding: 9px 8px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B2B2B2;
+	border-right-color: #B2B2B2;
+	border-bottom-color: #B2B2B2;
+	border-left-color: #B2B2B2;
+}
+
+body .gform_wrapper .gform_body .gform_fields #field_XX_X.gfield {
+	padding: 10px;
+	line-height: 25px;
+	width: 430px;
+	max-height:300px; 
+	min-height:46px;
+	background-color: #ffffff;
+	background-image: none;
+	border-top-color: #dddddd;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	resize:vertical;
+	overflow: auto;
+}
+
+/* ---- DROP DOWN FIELD ---- */
+
+body .gform_wrapper .gform_body .gform_fields .gfield select {
+	height: 48px;
+	width: 100%;
+	max-height: 50px;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	background-color: #fffffc;
+	background-image: none;
+}
+
+body #gform_wrapper_1 .gform_body .gform_fields .gfield select {
+	height: 48px;
+	width: 100%;
+	max-height: 50px;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	background-color : #fffffc;
+	background-image: none;
+}
+
+body .gform_wrapper .gform_body .gform_fields #field_XX_X.gfield select {
+	height: 48px;
+	width: 100%;
+	max-height: 50px;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645a;
+	background-color : #fffffc;
+	background-image: none;
+}
+
+/* ---- ADVANCED FIELDS CONTAINER ---- */
+
+body .gform_wrapper .gform_body .gform_fields .gfield .ginput_complex {
+	margin: none;
+	padding: none;
+	width: 100%;
+	float: left;
+}
+
+body #gform_wrapper_1 .gform_body .gform_fields .gfield .ginput_complex {
+	margin: none;
+	padding: none;
+	width: 450px;
+	float: left;
+}
+
+body .gform_wrapper .gform_body .gform_fields #field_XX_X.gfield .ginput_complex {
+	margin: none;
+	padding: none;
+	width: 460px;
+	float: left;
+}
+
+/* ---- ADVANCED FIELDS LEFT-CONTAINER ---- */
+
+body .gform_wrapper .gform_body .gform_fields .gfield .ginput_complex .ginput_left {
+	width: 219px;
+	padding: none;
+	margin: 0 12px 0 0;
+}
+
+body .gform_wrapper .gform_body .gform_fields .gfield_error .ginput_complex .ginput_left {
+	width: 209px;
+	padding: none;
+	margin: 0 12px 0 0;
+}
+
+/* ---- ADVANCED FIELDS RIGHT-CONTAINER ---- */
+
+body .gform_wrapper .gform_body .gform_fields .gfield .ginput_complex .ginput_right {
+	width: 219px;
+	padding: none;
+	margin: none;
+	}
+
+body .gform_wrapper .gform_body .gform_fields .gfield_error .ginput_complex .ginput_right {
+	width: 209px;
+	padding: none;
+	margin: none;
+}
+
+/* ---- ADVANCED FIELDS Labels ---- */
+body .gform_wrapper .gform_body .gform_fields .gfield .ginput_complex label {
+	letter-spacing: normal;
+	width: 100%;
+}
+
+/* ---- TEETH CHECKBOXES ---- */
+
+
+
+body #gform_wrapper_1 .gform_body #gform_fields_1 #field_1_8 .ginput_container,
+body #gform_wrapper_1 .gform_body #gform_fields_1 #field_1_9 .ginput_container,
+body #gform_wrapper_1 .gform_body #gform_fields_1 #field_1_10 .ginput_container,
+body #gform_wrapper_1 .gform_body #gform_fields_1 #field_1_11 .ginput_container, {
+	/*display: inline;*/
+}
+
+
+
+
+
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_8,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_9,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_10,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_11 {
+	display: inline;
+	
+}
+
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_8 li,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_9 li,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_10 li,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_11 li {
+	display: inline-block;
+	height: auto;
+	width: 17px;
+	margin: 0 3px 0 3px;
+	text-align: center;
+	position: static;
+	zoom: 1;
+	*display:inline;
+}
+
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_8 li input,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_9 li input,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_10 li input,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_11 li input {
+margin-top: 2px;
+float: none;
+}
+
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_8 li label,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_9 li label,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_10 li label,
+body .gform_wrapper .gform_body .gform_fields .ginput_container ul#input_1_11 li label{
+	display: block; /* try "block" instead if this fails in IE */
+	margin: 0 0 0 0;
+	font-weight: bold;
+	line-height: normal;
+}
+
+body .gform_wrapper .gform_body .gform_fields #field_1_8 label.gfield_label,
+body .gform_wrapper .gform_body .gform_fields #field_1_9 label.gfield_label,
+body .gform_wrapper .gform_body .gform_fields #field_1_10 label.gfield_label,
+body .gform_wrapper .gform_body .gform_fields #field_1_11 label.gfield_label {
+	display: none;
+}
+
+body .gform_wrapper .gform_body .gform_fields #field_1_8,
+body .gform_wrapper .gform_body .gform_fields #field_1_9,
+body .gform_wrapper .gform_body .gform_fields #field_1_10,
+body .gform_wrapper .gform_body .gform_fields #field_1_11 {
+	margin: 10px 0 0 0;
+}
+
+/* ---- COMPLEX NAME FIELD & RULE---- */
+
+body #gform_wrapper_1 .gform_body #gform_fields_1 .gsection {
+color: #BABABA;
+text-shadow: none;
+font-weight: bold;
+letter-spacing: normal;
+border-bottom: 6px solid #CCC;
+padding: 0 0 0 0;
+margin: 30px 0 30px 0;
+clear: both;
+}
+
+body #gform_wrapper_1 .gform_body #gform_fields_1 .gsection h2 {
+	color: #BABABA;
+	text-shadow: none;
+	font-weight: bold;
+}
+
+body #gform_wrapper_1 .gform_body #gform_fields_1 #field_1_14 {
+color: #BABABA;
+text-shadow: none;
+font-weight: bold;
+letter-spacing: normal;
+border-bottom: 6px solid #CCC;
+padding: 0 0 0 0;
+margin: 30px 0 10px 0;
+clear: both;
+}
+
+
+/* ---- FOOTER ---- */
+
+body .gform_wrapper .gform_footer {
+	padding: 0 0 0 0;
+	margin: 20px 0 0 0;
+}
+
+body #gform_wrapper_1 .gform_footer {
+	padding: 0 0 0 0;
+	margin: 23px 0 0 0;
+}
+
+body #gform_wrapper_2 .gform_footer {
+	padding: 0 0 0 0;
+	margin: 40px 0 0 0;
+}
+
+
+/* ---- SUBMIT BUTTON ---- */
+
+body .gform_wrapper .gform_footer input[type=submit] {
+	height: 47px;
+	width: 225px;
+	background-color: #3f3f38;
+	background-image: url(../images/submit_transparent.png);
+	background-repeat: repeat-x;
+	border-top-color: #292925;
+	border-bottom-color: #292925;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #0b171e;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+body #gform_wrapper_1 .gform_footer input[type=submit] {
+	height: 47px;
+	width: 225px;
+	background-color: #3f3f38;
+	background-image: url(../images/submit_transparent.png);
+	background-repeat: repeat-x;
+	border-top-color: #292925;
+	border-bottom-color: #292925;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #0b171e;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+body #gform_wrapper_2 .gform_footer input[type=submit] {
+	height: 47px;
+	width: 225px;
+	background-color: #3f3f38;
+	background-image: url(../images/submit_transparent.png);
+	background-repeat: repeat-x;
+	border-top-color: #292925;
+	border-bottom-color: #292925;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #0b171e;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+/* ---- SUBMIT BUTTON ROLLOVER ---- */
+
+body .gform_wrapper .gform_footer input[type=submit]:hover {
+	background-color: #4a4a43;
+}
+
+body #gform_wrapper_1 .gform_footer input[type=submit]:hover {
+	background-color: #4a4a43;
+}
+
+body #gform_wrapper_2 .gform_footer input[type=submit]:hover {
+	background-color: #4a4a43;
+}
+
+/* ---- CONFIRMATION MESSAGE ---- */
+
+body #post-2 #gforms_confirmation_message {
+    background-color: #FFFAC6;
+    border: 1px solid #FEDA70;
+    color: #E6DB55;
+    font-size: 14px;
+    margin: 0 0 0 0; 
+    padding: 40px 40px;
+	text-align: left;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+}
+
+body #post-2 #gforms_confirmation_message h3.gform_title {
+    color: #E6DB55;
+    font-size: 14px;
+    margin: 0 0 0 0; 
+    padding: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: -1px;
+	margin-bottom: 20px;
+}
+
+body #post-2 #gforms_confirmation_message p {
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+}
+
+body #post-2 #gforms_confirmation_message button.message-button {
+height: 47px;
+width: 225px;
+background-color: #3F3F38;
+background-image: url(../images/submit_transparent.png);
+background-repeat: repeat-x;
+border-top-color: #292925;
+border-bottom-color: #292925;
+border-top-width: 1px;
+border-bottom-width: 1px;
+border-top-style: solid;
+border-right-style: none;
+border-bottom-style: solid;
+border-left-style: none;
+border-radius: 6px;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 15px;
+font-weight: bold;
+text-shadow: 1px 1px 1px #0B171E;
+color: white;
+cursor: pointer;
+margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+/* ---------------------------- SIGN IN FORM ---------------------------- */
+
+
+/* ---- SIGN IN BODY PAGE DIV (coded into the page) ---- */
+
+body #sign-in {
+	width: 275px;
+    overflow: hidden;
+	background-color: #f0f0f0;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	padding: 40px 40px 40px 40px;
+	margin: auto;
+}
+
+/* ---- SIGN IN HEADER ---- */
+
+body #sign-in h1 {
+	font-size: 50px;
+	margin-bottom: 30px;
+}
+
+
+/* ---- SIGN IN FORM WRAPPER ---- */
+
+body #sign-in .login {
+	padding: 0;
+	margin: 0;
+}
+
+/* ---- STANDARD FIELD LABEL ---- */
+
+body #sign-in .login label {
+	margin: 15px 0 -2px 0;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body #sign-in .login p {
+	margin: 0px;
+	padding: 0px;
+}
+
+/* ---- STATUS MESSAGE ---- */
+
+body #sign-in .login p.message {
+	color: #BBB245;
+	text-align: center;
+	min-height: 18px;
+	height:auto;
+	margin: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	border: 1px solid #E6DB55;
+	background-color: lightYellow;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	padding: 15px;
+}
+
+
+/* ---- TEXT FIELD ---- */
+
+body #sign-in .login input[type=text] {
+	width: 251px;
+	background-color: white;
+	border-top-color: #DDD;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645A;
+	padding: 12px 12px;
+}
+
+body #sign-in .login input[type=text]:focus {
+	padding: 11px 10px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B2B2B2;
+	border-right-color: #B2B2B2;
+	border-bottom-color: #B2B2B2;
+	border-left-color: #B2B2B2;
+}
+
+/* ---- PASSWORD FIELD ---- */
+
+body #sign-in .login input[type=password] {
+	width: 251px;
+	background-color: white;
+	border-top-color: #DDD;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #65645A;
+	padding: 12px 12px;
+}
+
+body #sign-in .login input[type=password]:focus {
+	padding: 11px 10px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B2B2B2;
+	border-right-color: #B2B2B2;
+	border-bottom-color: #B2B2B2;
+	border-left-color: #B2B2B2;
+}
+
+/* ---- REMEMBER ME ---- */
+
+body #sign-in .login p.forgetmenot {
+	margin: 10px 0 0 0;
+	width: 100%;
+	float: left;
+}
+
+body #sign-in .login p.forgetmenot label {
+	margin: 0px 0 0 3px;
+	display: inline;
+	font-size: 90%;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ---- SUBMIT BUTTON ---- */
+
+body #sign-in .login p.submit {
+	margin: 40px 0 0 0;
+}
+
+body #sign-in .login p.submit input[type=submit] {
+	float: left;
+	height: 47px;
+	width: 60%;
+	background-color: #3f3f38;
+	background-image: url(../images/submit_transparent.png);
+	background-repeat: repeat-x;
+	border-top-color: #292925;
+	border-bottom-color: #292925;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #0b171e;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+/* ---- LOST PASSWORD ---- */
+
+body #sign-in .login ul {
+	float: right;
+	margin-top: 20px;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}

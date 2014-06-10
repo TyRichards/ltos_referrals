@@ -1,0 +1,8 @@
+[02-Oct-2013 04:48:58] PHP Fatal error:  Call to undefined function  _e() in /home1/ty/public_html/referrals/wp-content/themes/toolbox/inc/related.php on line 2
+[04-Oct-2013 00:17:01] PHP Fatal error:  Call to undefined function  get_option() in /home1/ty/public_html/referrals/wp-content/themes/toolbox/inc/digi-slider-2.php on line 6
+[06-Oct-2013 20:39:02] PHP Fatal error:  Call to undefined function  _e() in /home1/ty/public_html/referrals/wp-content/themes/toolbox/inc/sharebox.php on line 3
+[11-Oct-2013 14:30:58] PHP Fatal error:  Call to undefined function  get_option() in /home1/ty/public_html/referrals/wp-content/themes/toolbox/inc/digi-slider.php on line 3
+[03-Dec-2013 23:01:36] PHP Fatal error:  Call to undefined function  _e() in /home1/ty/public_html/referrals/wp-content/themes/toolbox/inc/related.php on line 2
+[07-Dec-2013 19:29:46] PHP Fatal error:  Call to undefined function  get_option() in /home1/ty/public_html/referrals/wp-content/themes/toolbox/inc/digi-slider-2.php on line 6
+[01-Jan-2014 22:40:45] PHP Fatal error:  Call to undefined function  _e() in /home1/ty/public_html/referrals/wp-content/themes/toolbox/inc/sharebox.php on line 3
+[06-Jan-2014 06:37:31] PHP Fatal error:  Call to undefined function  _e() in /home1/ty/public_html/referrals/wp-content/themes/toolbox/inc/sharebox.php on line 3

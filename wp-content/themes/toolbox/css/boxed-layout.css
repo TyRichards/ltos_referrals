@@ -1,0 +1,26 @@
+.sitewrap {
+	width: 1040px;
+}
+
+#header {
+	padding: 0 30px;
+}
+
+#content {
+	overflow: hidden;
+	padding: 30px;
+	border-bottom: 6px solid #F4F4F4;
+}
+
+#logo {
+    left: 30px;
+}
+
+.menu-header {
+    right: 30px;
+}
+
+#header {
+    border-bottom: 6px solid #F4F4F4;
+    border-top: 6px solid #F4F4F4;
+}	

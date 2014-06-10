@@ -1,0 +1,1 @@
+[27-Sep-2013 05:15:21] PHP Fatal error:  Call to undefined function  get_option() in /home1/ty/public_html/referrals/wp-content/themes/toolbox/inc/js/js-options.php on line 5

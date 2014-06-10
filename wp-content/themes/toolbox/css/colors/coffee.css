@@ -1,0 +1,57 @@
+.feature-wide {
+	background: #90b2c2 url('../../images/latte.png') top center;
+	border-bottom: 6px solid #13100e;
+}
+
+.video-feature-wide {
+    background: url("../../images/footer-widgets-coffee.png") repeat-x scroll center top transparent;
+    border-bottom: 6px solid #13100e;
+}
+
+.footer-wide {
+	background: #90b2c2 url('../../images/latte.png') top center;
+	border-bottom: 6px solid #13100e;
+}
+
+.nivo-controlNav a {
+	background: url("../../images/sliders/bullets-coffee.png") no-repeat 0px -3px;
+}
+
+.masthead-wide {
+	background: #90b2c2 url('../../images/footer-widgets-coffee.png') top center;
+	border-bottom: 6px solid #2d2620;
+}
+
+#footer ul li {
+    border-bottom: 1px solid #2c2620;
+}
+
+#content .ptitle-wrap p.entry-meta {
+    background: #3f3730 url("../../images/meta-bg.png") 0 0 repeat-x;
+}
+
+#content .ptitle-wrap p.entry-meta .arccom {
+    background: #2c2620 url("../../images/meta-bg-2.png") 0 0 repeat-x;
+}
+ 
+.pagination .current {
+	color: #ffffff;
+	background: #3f3730;
+	border: 1px solid #3f3730;
+}
+
+#digislider2-feature-wrap a.pager-link {
+    background: url("../../images/sliders/bullets-coffee.png") no-repeat 0 -3px;
+}
+
+#digislider2-feature-wrap a.pager-active {
+    background: url("../../images/sliders/bullets-coffee.png") no-repeat 0 -23px;
+}
+
+.work-nav-wrap {
+	background: url("../../images/meta-bg.png") repeat-x 0 0 #3f3730;
+}
+
+.show  {
+    background: url("../../images/meta-bg-2.png") repeat-x 0 0 #2c2620;
+}

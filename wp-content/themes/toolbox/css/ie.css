@@ -1,0 +1,20 @@
+/* IE (all versions) */
+/* ----------------------------------------- */
+
+#gallery-four-boxes a:hover.gallery-zoom-video span {display: block;}
+#gallery-four-boxes a:hover.gallery-zoom span {display: block;}
+.hover-zoom:hover span.zoom-2 { display: block; }
+.hover-zoom:hover span.zoom-3 { display: block; }
+#gallery-3-boxes a.gallery-zoom:hover span { display: block; }
+.hover-zoom:hover span.zoom-more { display: block; }
+#gallery-3-boxes a:hover.gallery-zoom-video span {display: block;}
+.hover-zoom:hover span.zoom-4 {display: block;}
+.hover-zoom:hover span.zoom-more-tall {display: block;}
+.hover-zoom:hover span.zoom-tall {display: block;}
+
+#gallery-2-boxes a:hover.gallery-zoom-video span {display: block;}
+#gallery-2-boxes a:hover.gallery-zoom span {display: block;}
+
+#gallery-1-box a:hover.gallery-zoom-video span {display: block;}
+#gallery-1-box a:hover.gallery-zoom span {display: block;}
+

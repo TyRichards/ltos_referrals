@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: percivale/functions/theme-comments.php:17
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: percivale/single.php:78
+#: percivale/category.php:16
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/theme-comments.php:18
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/theme-comments.php:16
+msgid "<span class=\"name alignleft\">%s</span>"
+msgstr ""
+
+#. Text in function
+#: percivale/attachment.php:65
+msgid "<span>&larr;</span> %s"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/googlemap.php:1
+msgid "Add a google map to your blog or site"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/googlemap.php:218
+msgid "Address for directions:"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "Contact Widget Area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/widgets/flickr-widget.php:1
+msgid "Digi - Flickr"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/widgets/twitter-widget.php:1
+msgid "Digi - Twitter Stream"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "Fifth Footer Widget Area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "First Footer Widget Area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/menus.php:1
+msgid "Gallery/Work Navigation"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/widgets/flickr-widget.php:61
+msgid "Group"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/googlemap.php:222
+msgid "Info Bubble Content:"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/widgets/flickr-widget.php:67
+msgid "Latest"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/googlemap.php:202
+msgid "Latitude:"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/widgets/twitter-widget.php:49
+msgid "Limit:"
+msgstr ""
+
+#. Text in echo
+#: percivale/comments.php:76
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/googlemap.php:206
+msgid "Longitude:"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/googlemap.php:214
+msgid "Map Type:<br /><small>(ROADMAP, SATELLITE, HYBRID, TERRAIN)</small>"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/widgets/flickr-widget.php:50
+msgid "Number:"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/breadcrumbs.php:1
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/wptitle.php:1
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "Pages Widget Area"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/widgets/flickr-widget.php:22
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/menus.php:1
+msgid "Primary Navigation"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "Primary Widget Area"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/widgets/flickr-widget.php:68
+msgid "Random"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/wptitle.php:1
+msgid "Search results for %s"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/googlemap.php:1
+msgid "Simple Google Map"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/widgets/flickr-widget.php:65
+msgid "Sorting:"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "The fifth footer widget area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "The first footer widget area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "The fourth footer widget area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "The primary widget area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "The second footer widget area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "The third footer widget area"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "The widget area for pages"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "The widget area in the Contact page template"
+msgstr ""
+
+#. Text in function
+#: percivale/functions/sidebar-init.php:1
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/googlemap.php:198
+#: percivale/functions/widgets/twitter-widget.php:41
+#: percivale/functions/widgets/popular-widget.php:68
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/widgets/flickr-widget.php:58
+msgid "Type:"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/widgets/flickr-widget.php:60
+msgid "User"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/widgets/twitter-widget.php:45
+msgid "Username:"
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/theme-comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: percivale/functions/googlemap.php:210
+msgid "Zoom Level: <small>(1-19)</small>"
+msgstr ""
